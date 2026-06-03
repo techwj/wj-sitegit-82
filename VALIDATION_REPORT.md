@@ -1,0 +1,88 @@
+# Validation Report - visa-application-guide
+
+Generated: 2026-06-02T19:22:23.247244
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Visa Application Guide
+- ✓ Article word count OK: Beginner Visa Application Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Visa Application Guide
+- ✓ Article word count OK: Beginner Visa Application Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Visa Application Guide
+- ✓ Article word count OK: Beginner Visa Application Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Visa Application Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Visa Application Guide
+- ✓ Article word count OK: Beginner Visa Application Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Visa Application Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Visa Application Guide
+- ✓ Article word count OK: Advanced Visa Application Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Visa Application Guide
+- ✓ Article word count OK: Advanced Visa Application Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Visa Application Guide
+- ✓ Article word count OK: Advanced Visa Application Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Visa Application Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Visa Application Guide
+- ✓ Article word count OK: Advanced Visa Application Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Visa Application Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Visa Application Guide Tips
+- ✓ Article word count OK: Visa Application Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Visa Application Guide Tips
+- ✓ Article word count OK: Visa Application Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Visa Application Guide Tips
+- ✓ Article word count OK: Visa Application Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Visa Application Guide Tips
+- ✓ Article word count OK: Common Mistakes in Visa Application Guide Tips
+- ✓ Article word count OK: Visa Application Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Visa Application Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Visa Application Guide History
+- ✓ Article word count OK: Visa Application Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Visa Application Guide History
+- ✓ Article word count OK: Visa Application Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Visa Application Guide History
+- ✓ Article word count OK: Visa Application Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Visa Application Guide History
+- ✓ Article word count OK: Common Mistakes in Visa Application Guide History
+- ✓ Article word count OK: Visa Application Guide History for Beginners
+- ✓ Article word count OK: Advanced Visa Application Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Visa Application Guide
+- ✓ Article word count OK: Trending Visa Application Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Visa Application Guide
+- ✓ Article word count OK: Trending Visa Application Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Visa Application Guide
+- ✓ Article word count OK: Trending Visa Application Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Visa Application Guide
+- ✓ Article word count OK: Common Mistakes in Trending Visa Application Guide
+- ✓ Article word count OK: Trending Visa Application Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Visa Application Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Visa Application Guide Tutorials
+- ✓ Article word count OK: Visa Application Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Visa Application Guide Tutorials
+- ✓ Article word count OK: Visa Application Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Visa Application Guide Tutorials
+- ✓ Article word count OK: Visa Application Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Visa Application Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Visa Application Guide Tutorials
+- ✓ Article word count OK: Visa Application Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Visa Application Guide Tutorials Techniques
+- ✓ Ad configuration validated
